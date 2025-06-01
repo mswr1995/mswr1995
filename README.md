@@ -1,20 +1,12 @@
 # Hi there, I'm Musawer Muradi👋
 
-Welcome to my GitHub profile! I'm passionate about coding and love to work on open-source projects. Here you'll find a collection of my work, including personal projects, contributions to other repositories, and more.
+Will update soon, dont have time now. You can check the repositories below.
 
 ## About Me
 
-- 🌱 I’m currently learning RAPIDS.
-- 👯 I’m looking to collaborate on Data Science/ML projects.
-- 🤔 I’m looking for help with Data Science.
-- 💬 Ask me about AI/ML.
-- 📫 How to reach me: musavir.muradi@gmail.com
 
 ## My Skills
 
-- **Languages:** R/Python actively, and bunch of usual stuff like Java/C++
-- **Frameworks/Libraries:** Anything related to R and Python.
-- **Tools:** Loading...
 
 ## Projects
 
