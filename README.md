@@ -22,6 +22,9 @@ Here are some of the projects I've been working on:
 - **Technologies:** R/Python
 - **Repository:** https://github.com/mswr1995/global-temperatures-analysis
 
+### Project 2
+- Below you will find more repositories with their detailed explanation in readme section.
+
 ## Get in Touch
 
 Feel free to reach out to me via Email if you want to discuss anything or collaborate on projects. I'm always open to new opportunities and connections.
