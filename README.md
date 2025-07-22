@@ -26,6 +26,9 @@ Deep learning models for clinical X-ray analysis using CNN architectures and tra
 ### [Energy Prediction with RNN/LSTM](https://github.com/mswr1995/MGT-Energy-EDA.git)
 Micro gas turbine power output prediction using advanced regression models and LSTM networks with automated hyperparameter tuning.
 
+### [Global Land Temparature Analysis](https://github.com/mswr1995/global-temperatures-analysis.git)
+Built comprehensive data processing pipeline for global temperature analysis. Applied statistical testing (p < 2.2e-16 significance) for climate trend validation
+
 ### [Computer Vision Behavior Analysis](https://github.com/mswr1995/HumanBehaviourAnalysis.git)
 Real-time video analysis system for human behavior classification using transfer learning on VGG16.
 
