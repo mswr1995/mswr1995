@@ -1,36 +1,69 @@
-# Hi there, I'm Musawer Muradi👋
+# Hi, I'm Musawer Muradi 👋
 
-Will update soon, dont have time now. You can check the repositories below.
+**AI Engineer & Machine Learning Enthusiast** based in Poznań, Poland - Available for relocation
 
-## About Me
+I'm an early-career AI/ML engineer with hands-on experience in deep learning frameworks and computer vision applications. Currently completing my Master's in Computer Engineering while building practical ML solutions and expanding into NLP/LLM applications.
 
+## 🔧 Technical Skills
 
-## My Skills
+**Machine Learning & AI:**
+- TensorFlow, PyTorch, Keras, scikit-learn
+- Computer Vision (CNNs, Transfer Learning, EfficientNet)
+- Time Series Analysis (RNNs, LSTM)
+- Natural Language Processing (NLTK, spaCy, Transformers)
 
+**Programming & Tools:**
+- Python, R, SQL
+- AWS, Google Colab, GPU optimization
+- Git, Docker, Jupyter, REST APIs
+- Data visualization (Matplotlib, Seaborn, Power BI)
 
-## Projects
+## 🚀 Featured Projects
 
-Here are some of the projects I've been working on:
+### [Medical Image Classification System](https://github.com/mswr1995/Dental_Implant_Classification.git)
+Deep learning models for clinical X-ray analysis using CNN architectures and transfer learning with EfficientNet/DenseNet.
 
-### Project 1
-- **Description:** Micro Gas Turbine Electrical Energy Prediction
-- **Technologies:** R/Python
-- **Repository:** https://github.com/mswr1995/MGT-Energy-EDA
+### [Energy Prediction with RNN/LSTM](https://github.com/mswr1995/MGT-Energy-EDA.git)
+Micro gas turbine power output prediction using advanced regression models and LSTM networks with automated hyperparameter tuning.
 
-### Project 2
-- **Description:** Global Land Temperature Analysis - This project focuses on analyzing global land temperature data to uncover historical trends and insights. The analysis involves data preprocessing, exploratory data analysis (EDA), hypothesis testing, and forecasting.
-- **Technologies:** R/Python
-- **Repository:** https://github.com/mswr1995/global-temperatures-analysis
+### [Computer Vision Behavior Analysis](https://github.com/mswr1995/HumanBehaviourAnalysis.git)
+Real-time video analysis system for human behavior classification using transfer learning on VGG16.
 
-### More Projects
-- Below you will find more repositories with their detailed explanation in readme section.
+### [Time Series Forecasting](https://github.com/mswr1995/stock-market-prediction-using-LinearRegression-and-LSTM.git)
+LSTM/RNN architectures for financial forecasting with GPU-optimized training workflows.
 
-## Get in Touch
+### [Image Steganography Research](https://github.com/mswr1995/secure-image-steganography-using-LSB-and-double-XOR.git)
+Comparative analysis of steganography methods with security and performance evaluation using Python and MATLAB.
 
-Feel free to reach out to me via Email if you want to discuss anything or collaborate on projects. I'm always open to new opportunities and connections.
+## 📚 Education
 
-- **Email:** musavir.muradi@gmail.com
+**Master of Computer Engineering** (Expected Dec 2025) - Kocaeli University, Turkey  
+**Bachelor of Computer Science** - Kabul University, Afghanistan  
+**Erasmus Exchange** - Adam Mickiewicz University, Poland
 
-Thanks for visiting my profile!
+## 🏆 Certifications
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mswr1995&show_icons=true&theme=radical)
+- **HarvardX CS50 Data Science** (2024)
+- **HarvardX CS50 AI with Python** (2024) 
+- **HarvardX CS50 Programming with Python** (2023)
+- **Google Analytics** (2022)
+
+## 💼 Experience
+
+**Technical Lead** at egasi.uz - Led technical strategy for e-commerce platform, implemented analytics systems, and improved user engagement by 30%.
+
+**Database Developer** at Kefayat Group - Designed centralized database systems and built automated reporting workflows for enterprise operations.
+
+## 🌍 Languages
+
+English (Fluent) • Turkish (Native) • Persian (Native) • Uzbek (Native) • Pashto (Intermediate)
+
+## 📫 Get in Touch
+
+- 📧 musavir.muradi@gmail.com
+- 🌍 Poznań, Poland
+- 💼 Open to AI/ML Engineer positions
+
+---
+
+*Building practical AI solutions and expanding knowledge in machine learning applications. Always eager to learn and contribute to innovative projects.*
